@@ -1,3 +1,9 @@
+# lux ai
+errorlogs
+replays
+replay.json
+submission.tar.gz
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
